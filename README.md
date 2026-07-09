@@ -280,7 +280,7 @@
     "email": "mailto:exmosenhor.fhjm@gmail.com",
     "telephone": "+61 0415 040 679",
     "sameAs": [
-      "http://linkedin.com/in/fernando-mourao-a40a5183",
+      "https://www.linkedin.com/in/fernando-mour%C3%A3o-a40a5183/",
       "http://medium.com/@fmourao"
     ]
   }
@@ -566,7 +566,7 @@ img{max-width:100%;display:block}
       <div>
         <div class="contact-links">
           <a href="mailto:exmosenhor.fhjm@gmail.com">Email</a>
-          <a href="http://linkedin.com/in/fernando-mourao-a40a5183" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/fernando-mour%C3%A3o-a40a5183/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           <a href="http://medium.com/@fmourao" target="_blank" rel="noopener noreferrer">Medium</a>
         </div>
         <p class="small" style="margin-top: 1rem; color: var(--color-text-muted);">Australia</p>
