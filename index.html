@@ -311,6 +311,7 @@ img{max-width:100%;display:block}
       </a>
       <nav class="nav" aria-label="Primary">
         <a href="#summary">Summary</a>
+        <a href="#expertise">Expertise</a>
         <a href="#highlights">Highlights</a>
         <a href="#projects">Success Stories</a>
         <a href="#speaking">Speaking</a>
@@ -361,6 +362,7 @@ img{max-width:100%;display:block}
         </div>
       </div>
     </section>
+      
 
     <section class="section" id="value">
       <div class="container grid-3">
@@ -378,6 +380,53 @@ img{max-width:100%;display:block}
         </article>
       </div>
     </section>
+    
+    <section class="section" id="expertise">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="section-kicker">Core Expertise & Leadership Strengths</div>
+            <h2>High-signal capabilities for Responsible AI leadership.</h2>
+          </div>
+          <div class="prose">
+            <p>A compact view of the capabilities that recur across Fernando’s work: governance design, AI product delivery, executive influence, and the operationalisation of Responsible AI in enterprise settings.</p>
+          </div>
+        </div>
+        <div class="grid-2">
+          <article class="card">
+            <h3>Core Expertise</h3>
+            <div class="chip-row">
+              <span class="chip">Responsible AI strategy</span>
+              <span class="chip">AI & Data governance frameworks</span>
+              <span class="chip">AI risk management</span>
+              <span class="chip">GenAI/Agentic AI governance</span>
+              <span class="chip">AI strategy</span>
+              <span class="chip">AI assurance</span>
+              <span class="chip">ISO 42001 alignment</span>
+              <span class="chip">AI operating models</span>
+              <span class="chip">AI literacy & capability uplift</span>
+              <span class="chip">Policy development</span>
+              <span class="chip">Experimentation at scale</span>
+              <span class="chip">Systems Thinking</span>
+            </div>
+          </article>
+          <article class="card">
+            <h3>Leadership Strengths</h3>
+            <div class="chip-row">
+              <span class="chip">Board and executive communication</span>
+              <span class="chip">Cross-functional influence</span>
+              <span class="chip">Regulatory engagement</span>
+              <span class="chip">Policy-to-practice translation</span>
+              <span class="chip">Risk-proportionate governance</span>
+              <span class="chip">Stakeholder alignment</span>
+              <span class="chip">Enterprise change enablement</span>
+              <span class="chip">Multi-market leadership</span>
+              <span class="chip">Trusted AI adoption</span>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>      
 
     <section class="section" id="highlights">
       <div class="container">
@@ -432,53 +481,6 @@ img{max-width:100%;display:block}
             <h3>ISO 42001 Certification for AI Governance</h3>
             <p class="muted">Led ISO 42001 certification activity for AI systems in a marketplace environment, acting as control owner and driving governance controls across the AI lifecycle.</p>
             <p>Strengthened audit readiness, increased trust with clients and stakeholders, and supported commercial teams by making governance maturity externally visible and credible.</p>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <section class="section" id="expertise">
-      <div class="container">
-        <div class="section-head">
-          <div>
-            <div class="section-kicker">Core Expertise & Leadership Strengths</div>
-            <h2>High-signal capabilities for Responsible AI leadership.</h2>
-          </div>
-          <div class="prose">
-            <p>A compact view of the capabilities that recur across Fernando’s work: governance design, AI product delivery, executive influence, and the operationalisation of Responsible AI in enterprise settings.</p>
-          </div>
-        </div>
-        <div class="grid-2">
-          <article class="card">
-            <h3>Core Expertise</h3>
-            <div class="chip-row">
-              <span class="chip">Responsible AI strategy</span>
-              <span class="chip">AI & Data governance frameworks</span>
-              <span class="chip">AI risk management</span>
-              <span class="chip">GenAI/Agentic AI governance</span>
-              <span class="chip">AI strategy</span>
-              <span class="chip">AI assurance</span>
-              <span class="chip">ISO 42001 alignment</span>
-              <span class="chip">AI operating models</span>
-              <span class="chip">AI literacy & capability uplift</span>
-              <span class="chip">Policy development</span>
-              <span class="chip">Experimentation at scale</span>
-              <span class="chip">Systems Thinking</span>
-            </div>
-          </article>
-          <article class="card">
-            <h3>Leadership Strengths</h3>
-            <div class="chip-row">
-              <span class="chip">Board and executive communication</span>
-              <span class="chip">Cross-functional influence</span>
-              <span class="chip">Regulatory engagement</span>
-              <span class="chip">Policy-to-practice translation</span>
-              <span class="chip">Risk-proportionate governance</span>
-              <span class="chip">Stakeholder alignment</span>
-              <span class="chip">Enterprise change enablement</span>
-              <span class="chip">Multi-market leadership</span>
-              <span class="chip">Trusted AI adoption</span>
-            </div>
           </article>
         </div>
       </div>
@@ -547,7 +549,7 @@ img{max-width:100%;display:block}
           <ul class="list">
             <li>Governance in the Age of Agentic AI</li>
             <li>Job Matching with Personalised Insights</li>
-            <li>Prioritization of Risks from Artificial Intelligence</li>
+            <li>Prioritisation of Risks from Artificial Intelligence</li>
             <li>Requirements for Inclusive AI-Driven Recruitment</li>
             <li>AI Impact Navigator contribution</li>
           </ul>
